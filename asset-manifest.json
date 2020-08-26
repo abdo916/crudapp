@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crudapp/static/css/main.2c6133ef.chunk.css",
+    "main.js": "/crudapp/static/js/main.3d068764.chunk.js",
+    "main.js.map": "/crudapp/static/js/main.3d068764.chunk.js.map",
+    "runtime-main.js": "/crudapp/static/js/runtime-main.23c4c990.js",
+    "runtime-main.js.map": "/crudapp/static/js/runtime-main.23c4c990.js.map",
+    "static/js/2.8f4bf464.chunk.js": "/crudapp/static/js/2.8f4bf464.chunk.js",
+    "static/js/2.8f4bf464.chunk.js.map": "/crudapp/static/js/2.8f4bf464.chunk.js.map",
+    "index.html": "/crudapp/index.html",
+    "precache-manifest.8f6533bf8011be99675ea89225680fb5.js": "/crudapp/precache-manifest.8f6533bf8011be99675ea89225680fb5.js",
+    "service-worker.js": "/crudapp/service-worker.js",
+    "static/css/main.2c6133ef.chunk.css.map": "/crudapp/static/css/main.2c6133ef.chunk.css.map",
+    "static/js/2.8f4bf464.chunk.js.LICENSE.txt": "/crudapp/static/js/2.8f4bf464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23c4c990.js",
+    "static/js/2.8f4bf464.chunk.js",
+    "static/css/main.2c6133ef.chunk.css",
+    "static/js/main.3d068764.chunk.js"
+  ]
+}
